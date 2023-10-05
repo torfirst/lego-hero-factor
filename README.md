@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-Link to the refactored home page can be found here:
+Link to the refactored home page can be found here: https://torfirst.github.io/lego-hero-factor/
 Browser inspector can be used to examine the code.
 
 ## Credits
